@@ -4,6 +4,4 @@ if "Guy" in names:
 else:
     print("No")
 
-
-
 print('Moshe')
